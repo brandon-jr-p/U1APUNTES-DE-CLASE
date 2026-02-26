@@ -419,3 +419,20 @@ Codigo modificado:
 ```
 paso_angular = 18 # Cada 18 grados para obtener 20 círculos alrededor
 ```
+
+## *1.6. Procesamiento de mapas de bits*
+
+Consiste en manipular los valores numéricos de los píxeles (matrices). Las operaciones comunes incluyen:
+
+* Filtros: Convoluciones para desenfoque o detección de bordes.
+* Ajustes: Modificación de histogramas para brillo y contraste.
+* Transformaciones: Rotar o recortar la matriz de datos.
+
+<img width="447" height="634" alt="image" src="https://github.com/user-attachments/assets/f1d023fd-2efe-4b09-a1d8-7e749647bd58" />
+
+## *Bibliografía sugerida (APA)*
+
+* Hearn, D., & Baker, M. P. (2011). Gráficos por computadora con OpenGL (4ta ed.). Pearson Educación.
+* Hughes, J. F., Van Dam, A., McGuire, M., Sklar, D. F., Foley, J. D., Feiner, S. K., & Akeley, K. (2013). Computer Graphics: Principles and Practice. Addison-Wesley Professional.
+* Shreiner, D., & Angel, E. (2014). Interactive Computer Graphics: A Top-Down Approach with WebGL. Pearson.
+* Blender Foundation. (2024). Blender 4.0 Manual. Recuperado de https://docs.blender.org/
